@@ -34,18 +34,51 @@ router.get("/:id", (req, res) => {
 });
 
 router.get("/search/fields", (req, res) => {
-    const imdbID = req.query.imdbID;
     const Title = req.query.Title;
-    const sql = "select * from movie where" +
-    "(imdbID IS NULL OR imdbID = ?) OR (Title IS NULL OR Title like ?)"
-    conn.query(sql, [imdbID,"%" + Title + "%"], (err,result)=>{
+    const sql = "SELECT movie.*, " +
+        "GROUP_CONCAT(DISTINCT CONCAT_WS(' ', creators.pid, Cperson.name, Cperson.lastname, Cperson.url, Cperson.age, Cperson.detail) SEPARATOR ';') AS creators, " +
+        "GROUP_CONCAT(DISTINCT CONCAT_WS(' ', stars.pid, Sperson.name, Sperson.lastname, Sperson.url, Sperson.age, Sperson.detail) SEPARATOR ';') AS stars " +
+        "FROM movie " +
+        "LEFT JOIN creators ON movie.imdbID = creators.imdbID " +
+        "LEFT JOIN stars ON movie.imdbID = stars.imdbID " +
+        "LEFT JOIN person ON person.pid = creators.pid OR person.pid = stars.pid " +
+		"LEFT JOIN person AS Cperson ON Cperson.pid = creators.pid " +
+		"LEFT JOIN person AS Sperson ON Sperson.pid = stars.pid " +
+        "WHERE movie.Title IS NULL OR movie.Title LIKE ? GROUP BY movie.imdbID";
+
+    conn.query(sql, ["%" + Title + "%"], (err, result) => {
         if (err) {
             res.status(400).json(err);
         } else {
-            res.json(result);
+            // จัดรูปแบบข้อมูลให้เป็นโครงสร้าง JSON ตามที่ต้องการ
+            const movies = result.map((row: { imdbID: any; Title: any; Year: any; Rated: any; Runtime: any; Plot: any; Language: any; Poster: any; imdbRating: any; imdbVotes: any; Type: any; creators: string; stars: string; }) => {
+                return {
+                    imdbID: row.imdbID,
+                    Title: row.Title,
+                    Year: row.Year,
+                    Rated: row.Rated,
+                    Runtime: row.Runtime,
+                    Plot: row.Plot,
+                    Language: row.Language,
+                    Poster: row.Poster,
+                    imdbRating: row.imdbRating,
+                    imdbVotes: row.imdbVotes,
+                    Type: row.Type,
+                    creators: row.creators ? row.creators.split(';').map(creator => {
+                        const [pid, name, lastname, url, age, detail] = creator.split(' ');
+                        return { pid, name, lastname, url, age, detail };
+                    }) : [],
+                    stars: row.stars ? row.stars.split(';').map(star => {
+                        const [pid, name, lastname, url, age, detail] = star.split(' ');
+                        return { pid, name, lastname, url, age, detail };
+                    }) : []
+                };
+            });
+            res.json(movies);
         }
     });
 });
+
 
 router.post("/", (req, res) => {
 	const movie: MovieRequest = req.body;

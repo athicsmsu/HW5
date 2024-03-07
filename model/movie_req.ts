@@ -10,4 +10,15 @@ export interface MovieRequest {
     imdbRating: number;
     imdbVotes:  string;
     Type:       string;
+    creator:    Person[];
+    stars:      Person[];
+}
+
+export interface Person {
+    pid:      number;
+    name:     string;
+    lastname: string;
+    url:      string;
+    age:      string;
+    detail:   string;
 }
