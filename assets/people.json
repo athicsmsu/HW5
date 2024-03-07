@@ -1,0 +1,272 @@
+[
+    {
+        "ppid" : 1,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMGNlYTVlYTMtMjRhMC00YjY5LTkwMzMtZDE4MWQzMzgwYmUzXkEyXkFqcGdeQXVyMjI0OTExNzk@._V1_QL75_UY414_CR29,0,280,414_.jpg",
+        "name" : "Pedro",
+        "lastname" : "Pascal",
+        "age" : 48,
+        "work":["Actor","Producer","Soundtrack"],
+        "video" : "https://www.youtube.com/embed/l9UZK81Vue4?si=EuKOo2YhzgkK1vxC",
+        "detail" : "Pedro Pascal is a Chilean-born actor. He is best known for portraying the roles of Oberyn Martell in the fourth season of the HBO series Game of Thrones (2011), Javier Peña in the Netflix series Narcos (2015), the titular character in the Disney+ series The Mandalorian (2019) and Joel Miller in the HBO series The Last of Us (2023).He's long-time friends with Triple Frontier (2019) co-star Oscar Isaac."
+    },
+    {
+        "ppid" : 2,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMWJkZWEyMWYtYWI1MS00ZTY0LTg2MTAtYjUzMWIwZDhjNmViXkEyXkFqcGdeQXVyNzI5MjUxNjE@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+        "name" : "Bella",
+        "lastname" : "Ramsey",
+        "age" : 20,
+        "work":["Actress","Soundtrack","Writer"],
+        "video" : "https://www.youtube.com/embed/PqQ6rx5QX7U?si=9xjHzNlPjEDzjOnf",
+        "detail" : "Bella Ramsey made their professional acting debut as fierce young noblewoman Lyanna Mormont in Season 6 of HBO's 'Game of Thrones', a role that quickly became a fan favorite and saw Bella return for the next 2 seasons. Bella will be returning to HBO as the leading role of 'Ellie Williams' in their new flagship show 'The Last of Us' opposite Pedro Pascal. Bella is also known for playing the titular character Mildred Hubble in the newest adaptation of 'The Worst Witch' for which they won the Young Performer BAFTA in 2019. Bella lends their voice to 'Hilda', an award winning animation series for Netflix. Bella was recently on screens in the second season of BBC/HBO's adaptation of 'His Dark Materials'.On the big screen, Bella was recently seen as the titular role in Lena Dunham's feature film 'Catherine, Called Birdy'. In 2020, Bella had a leading role alongside Jesse Eisenberg in the Marcel Marceau biopic 'Resistance'. In 2019, Bella starred opposite Renée Zellweger, playing her daughter Lorna Luft, in the biopic film 'Judy'. Other film work includes 'Two For Joy' opposite Samantha Morton and Billie Piper, and 'Holmes and Watson' with Will Ferrell. Bella's short films include 'Zero', 'On The Beaches', 'Three Minutes of Silence' and 'Requiem'.Bella is an ambassador for Greenpeace and Young Minds, and a patron for Bamboozle Theatre Company."
+    },
+    {
+        "ppid" : 3,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMzQ0NDg0MjQ3NV5BMl5BanBnXkFtZTgwOTI5OTAwODE@._V1_QL75_UY414_CR16,0,280,414_.jpg",
+        "name" : "Anna",
+        "lastname" : "Torv",
+        "age" : 44,
+        "work":["Actress","Soundtrack"],
+        "video" : "https://www.youtube.com/embed/7CunLUoxFC8?si=aaQTVJdO1jkM8RPj",
+        "detail" : "Anna Torv (born 7 June 1979) is an Australian actress known for her role as FBI agent Olivia Dunham on the Fox television series Fringe (2008-2013). Torv was born in Melbourne, Victoria, the daughter of Susan (née Carmichael) and Hans Torv, also grew up in Gold Coast, Queensland. Her father is of Estonian descent, but was born in Stirling, Scotland. Her mother is of Scottish descent."
+    },
+    {
+        "ppid" : 4,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMjExMjQ2MDk4OF5BMl5BanBnXkFtZTcwNDQ3MzQ1MQ@@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "name" : "Karl",
+        "lastname" : "Urban",
+        "age" : 51,
+        "work":["Actor","Producer","Additional Crew"],
+        "video" : "https://www.youtube.com/embed/OXe2vCczFoI?si=-5JoasjE2V93ngcH",
+        "detail" : "Originally from Wellington, New Zealand, Karl Urban now lives in Auckland. Born on June 7, 1972, he is the son of a leather-goods manufacturer (who had hoped that Karl would follow in his footsteps). His first acting role was when he was 8 -- he had a line on a television series. However, he did not act again until after high school. He was offered a role in the NZ soap opera Shortland Street (1992) as he was preparing to attend Victoria University. After appearing on the series for the 1993-1994 season, he attended the university for one year, then left to pursue his acting career. Over the next few years, he landed several theater roles in the Wellington area. Eventually, he moved to Auckland, where a number of guest roles in NZ television followed. One of his first roles was that of a heroin addict in the drama series Shark in the Park (1989). He was in a movie as well, entitled Once in Chunuck Bay (aka Chunuk Bair (1992)). Other television roles followed, including a guest-starring role in the series White Fang (1993). Karl's biggest roles include Éomer in the Lord of the Rings trilogy, as well as Dr. Leonard 'Bones' McCoy in Star Trek (2009), William Cooper in RED (2010) and Judge Dredd in Dredd (2012)."
+    },
+    {
+        "ppid" : 5,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMTQxMDg1Nzc0OV5BMl5BanBnXkFtZTcwODc4NTkyNw@@._V1_QL75_UY414_CR8,0,280,414_.jpg",
+        "name" : "Antony",
+        "lastname" : "Starr",
+        "age" : 48,
+        "work":["Actor"],
+        "video" : "https://www.youtube.com/embed/9arIn2YXi-Y?si=ku7l5eIyqfzCeGah",
+        "detail" : "Antony Starr is a New Zealand actor best known for his starring role as Homelander in Amazon Prime Video's original series The Boys, which is based on the comic book series of the same name. In New Zealand, he is best known for his dual role as twins Jethro and Van West in Outrageous Fortune and Billy Newwood in Without a Paddle. He was the lead character, Lucas Hood, in the four-season run of Banshee."
+    },
+    {
+        "ppid" : 6,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMjIyOTk5NjAyM15BMl5BanBnXkFtZTgwNjc2MDY0NDE@._V1_FMjpg_UY2048_.jpg",
+        "name" : "Neil",
+        "lastname" : "Druckmann",
+        "age" : "45",
+        "work":["Writer","Director","Additional Crew"],
+        "video" : "https://www.youtube.com/embed/PqQ6rx5QX7U?si=NgQ1I-wf1f0D5Fc8",
+        "detail" : "Neil Druckmann is an Israeli-American video game developer and co-president of Naughty Dog. He started off as a programmer in Jak 3 and Jak X: Combat Racing. He wrote the Uncharted game series and directed The Last of Us series. He produced an Uncharted movie and a Last of Us television series for HBO."
+    },
+    {
+        "ppid" : 7,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMjlhNTg1ZTctOWFmMC00NjQ0LWFmMTktODQ4NmYyZDhjNzQzXkEyXkFqcGdeQXVyMTMzMzk2OTU@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "name" : "Craig",
+        "lastname" : "Mazin",
+        "age" : "52",
+        "work":["Writer","Producer","Actor"],
+        "video" : "https://www.youtube.com/embed/beP3HcuHSf0?si=kezsr6TXNuoR615b",
+        "detail" : "Craig Mazin was born on 8 April 1971 in Brooklyn, New York, USA. He is a writer and producer, known for Chernobyl (2019), The Last of Us (2023) and Mythic Quest (2020)."
+    },
+    {
+        "ppid" : 8,
+        "url" : "https://m.media-amazon.com/images/M/MV5BY2Y2MmIzOGEtNTgyYi00OWUyLTljNzEtYmFlOWU2MzFkZTg1XkEyXkFqcGdeQXVyMjYyNDg5NzY@._V1_FMjpg_UX552_.jpg",
+        "name" : "Jack",
+        "lastname" : "Quaid",
+        "age" : "31",
+        "work":["Actor","Writer","Producer"],
+        "video" : "https://www.youtube.com/embed/qhUu75LKLi0?si=TJQ6GbdpVNiPoKsW",
+        "detail" : "Jack Henry Quaid is an American actor. He made his acting debut with a minor role in the dystopian film The Hunger Games (2012) before his breakout role as vigilante Hughie Campbell in the Amazon Prime Video superhero series The Boys (2019). Among other roles, he was part of the main cast of HBO's Vinyl (2016) and had numerous voice acting roles such as Brad Boimler in Star Trek: Lower Decks (2020). He also played Richie Kirsch in the slasher film Scream (2022)."
+    },
+    {
+        "ppid" : 9,
+        "url" : "https://m.media-amazon.com/images/M/MV5BZjJkYzkyOGYtNDg0ZS00MjBmLWI1MTQtYjNlZTEwZDlkZjI2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_QL75_UY414_CR171,0,280,414_.jpg",
+        "name" : "Yûichi",
+        "lastname" : "Nakamura",
+        "age" : "43",
+        "work":["Actor","Soundtrack"],
+        "video" : "https://www.youtube.com/embed/ntmleCbwM_M?si=wHNiToQPGd04clCe",
+        "detail" : "Yûichi Nakamura was born on 20 February 1980 in Takamatsu, Japan. He is an actor, known for Kamen Rider × Super Sentai × Space Sheriff: Super Hero Taisen Z (2013), Fairy Tail: Priestess of the Phoenix (2012) and Tokumei Sentai Go-Busters (2012)."
+    },
+    {
+        "ppid" : 10,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMjEzOTYzNTEzOV5BMl5BanBnXkFtZTcwMDcwNTE4Ng@@._V1_QL75_UX280_CR0,2,280,414_.jpg",
+        "name" : "Eric",
+        "lastname" : "Kripke",
+        "age" : "49",
+        "work":["Writer","Producer","Additional Crew"],
+        "video" : "https://www.youtube.com/embed/WFMy7F4s9SU?si=VdVm6OX_t5IHWKxk",
+        "detail" : "Eric Kripke is an American writer and television producer. He came to prominence as the creator of The CW fantasy drama series Supernatural (2005-2020), where he served as show-runner during the first five seasons. Kripke also created the post-apocalyptic drama series Revolution (2012-2014) and co-created the science fiction series Timeless (2016-2018). Since 2019, he has served as show-runner of the superhero series The Boys, which he developed for Amazon Prime Video."
+    },
+    {
+        "ppid" : 11,
+        "url" : "https://m.media-amazon.com/images/M/MV5BZTUyYmQ0ZGEtYWJlNC00OTQzLTkzMGItNDIwNjY1YjhiNDFhXkEyXkFqcGdeQXVyNDU4MDQ0MjM@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+        "name" : "Kim",
+        "lastname" : "Dong-Hee",
+        "age" : "24",
+        "work":["Actor"],
+        "video" : "https://www.youtube.com/embed/Q3YgWMxaq8o?si=bpWbRWnTnuHyhTkS",
+        "detail" : "Kim Dong-Hee is known for Itaewon Class (2020), Phantom (2023) and A-TEEN (2018)."
+    },
+    {
+        "ppid" : 12,
+        "url" : "https://m.media-amazon.com/images/M/MV5BM2NkNGU2MjItYTNmYy00NjBhLTg2NzQtN2NlN2EwYmJlMzA4XkEyXkFqcGdeQXVyMjIyNzU0OA@@._V1_FMjpg_UX653_.jpg",
+        "name" : "Jung",
+        "lastname" : "Da-bin",
+        "age" : "23",
+        "work":["Actress","Soundtrack"],
+        "video" : "https://www.youtube.com/embed/EgOiCWTR_JU?si=_beZRqoDkk0ogV7N",
+        "detail" : "Jung Da-bin was born on 25 April 2000 in South Korea. She is an actress, known for Glitch (2022), Manny (2011) and Yeopgijeogin Geunyeo (2017)."
+    },
+    {
+        "ppid" : 13,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMGFmZDVhZDUtZWIyNC00NzBjLTg0ZGEtY2FhMjJlZWJhZjBlXkEyXkFqcGdeQXVyMTcwNzE4OTI@._V1_QL75_UY414_CR67,0,280,414_.jpg",
+        "name" : "Hailee",
+        "lastname" : "Steinfeld",
+        "age" : "27",
+        "work":["Actress","Producer","Composer"],
+        "video" : "https://www.youtube.com/embed/7ZdR_l4mn9Q?si=uvuZvsSUrktG7H2u",
+        "detail" : "Hailee Steinfeld was born on December 11, 1996 in Tarzana, California, to Cheri (Domasin), an interior designer, and Peter Steinfeld, a personal fitness trainer. She has a brother, Griffin. Her uncle is Jake Steinfeld, a fitness trainer, and her great-uncle is actor Larry Domasin. Her father is of Ashkenazi Jewish descent and her mother's ancestry is Filipino, African-American, British Isles, and German. Hailee was raised in Thousand Oaks, California.At an early age, she appeared in several short films to gain experience. She played the role of Talia Alden in She's a Fox (2009), which received several awards. Her debut in a feature film for theater was True Grit (2010). She played a major role, Mattie Ross, with Jeff Bridges, Josh Brolin, and Matt Damon. She got big attention for her performance in this movie, and she was nominated for the 'Best Supporting Actress' Academy Award. After a short break, she appeared in several films which were released in 2013. She played the role of Juliet in Shakespeare's Romeo & Juliet (2013), which also starred Douglas Booth, and was released in 2013. Also, she appeared in Ender's Game (2013) as Petra Arkanian, based on the book written by Orson Scott Card, and this movie was directed by Gavin Hood. She starred with Asa Butterfield and Harrison Ford, and this movie received positive reviews. She appeared in the short film The Magic Bracelet (2013), with Bailee Madison, as Angela.In 2014, She appeared in 3 Days to Kill (2014), which was released on February 21, 2014. she played the major role of Zoey Renner, daughter of Kevin Costner. In Hateship Loveship (2013), she played Sabitha with Kristen Wiig. This movie was released on April 11, 2014 in USA. Steinfeld performed the role of Emily Junk in Pitch Perfect 2 (2015). She also starred in Barely Lethal (2015) with Jessica Alba. She filmed the movie, Ten Thousand Saints (2015), as the role of Eliza, again opposite Asa Butterfield.In 2016, she starred in the teen dramedy The Edge of Seventeen (2016), for which she received a Golden Globe nomination for Best Actress in a Motion Picture - Comedy or Musical.She has been home-schooled since 2008. Hailee says she is very interested to be on the other side of camera and would like to eventually produce and direct."
+    },
+    {
+        "ppid" : 14,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMTA0NDkyNzI0MTBeQTJeQWpwZ15BbWU4MDI4ODUxODUx._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "name" : "Kevin",
+        "lastname" : "Alejandro",
+        "age" : "47",
+        "work":["Actor","Director","Producer"],
+        "video" : "https://www.youtube.com/embed/JPalGTfiDrI?si=wczVIq617nUdYGHa",
+        "detail" : "Kevin Michael Alejandro is an American actor and film director. He is known for his roles as Nate Moretta in the crime drama Southland, Forklift Mike in Parenthood, Jesús Velázquez in the supernatural thriller True Blood, Sebastian Blood / Brother Blood in the superhero series Arrow and as Daniel Espinóza in the comedy-crime drama Lucifer."
+    },
+    {
+        "ppid" : 15,
+        "url" : "https://m.media-amazon.com/images/M/MV5BY2ZlNTI1YzUtZGUwNi00MzdhLWEyY2ItOGRjMTkxZDZiOTc0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY414_CR171,0,280,414_.jpg",
+        "name" : "Jason",
+        "lastname" : "Spisak",
+        "age" : "50",
+        "work":["Actor","Producer","Additional Crew"],
+        "video" : "https://www.youtube.com/embed/6OkMsn3KE9g?si=OgD9n89ujYwlVcT6",
+        "detail" : "Jason Spisak is an American actor and voice actor best known for his portrayal of Silco in Arcane, as well as Kid Flash in Young Justice and The Joker in Batman Hush, the Hell Priest in Doom Eternal. He produced The Unbelievers documentary, and was a co-founder of Lycoris and Symple. He is divorced and has two children."
+    },
+    {
+        "ppid" : 16,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMjEzMDY2NzI3MF5BMl5BanBnXkFtZTcwODY5MjI3NA@@._V1_QL75_UY414_CR3,0,280,414_.jpg",
+        "name" : "Dan",
+        "lastname" : "Harmon",
+        "age" : "51",
+        "work":["Writer","Producer","Director"],
+        "video" : "https://www.youtube.com/embed/Or0McyeF91I?si=0YLV1NorYghyRA_w",
+        "detail" : "Dan Harmon was born on January 3, 1973 in Milwaukee, Wisconsin, USA. He is best known as the creator, writing, and producer for Community (2009) and Rick and Morty (2013). He also is known for writing and producing earlier works such as Computerman (2003), and Laser Fart (2004). He was previously married to Erin McGathy."
+    },
+    {
+        "ppid" : 17,
+        "url" : "https://m.media-amazon.com/images/M/MV5BOTYxMTE5MjY2Nl5BMl5BanBnXkFtZTgwMTM3Mzg3MDI@._V1_QL75_UY414_CR171,0,280,414_.jpg",
+        "name" : "Justin",
+        "lastname" : "Roiland",
+        "age" : "43",
+        "work":["Actor","Writer","Producer"],
+        "video" : "https://www.youtube.com/embed/Or0McyeF91I?si=sb5_eUX004ESDKcK",
+        "detail" : "Mark Justin Roiland is an American voice actor, animator, writer, producer, and director. He is best known as the co-creator of Adult Swim's Rick and Morty and its subsequent franchise. He voices the show's title characters Rick Sanchez and Morty Smith. In addition to Rick and Morty, Roiland is the co-creator of Hulu's Solar Opposites, in which he voices the main character, Korvo. He has also played Earl of Lemongrab on Adventure Time, Blendin Blandin on Gravity Falls, and Oscar on Fish Hooks. He founded the animation..."
+    },
+    {
+        "ppid" : 18,
+        "url" : "https://m.media-amazon.com/images/M/MV5BYTUyYzAwNTAtYmUwNS00NTg1LWIxMjktMzUwZjBmOGJkM2NmXkEyXkFqcGdeQXVyMDA1MTc5Mg@@._V1_QL75_UY414_CR17,0,280,414_.jpg",
+        "name" : "Chris",
+        "lastname" : "Parnell",
+        "age" : "56",
+        "work":["Actor","Writer","Soundtrack"],
+        "video" : "https://www.youtube.com/embed/ptZpUeVDi6w?si=tCMxTomQdFRnMUny",
+        "detail" : "Born and raised in Memphis, Tennessee, Chris Parnell enrolled at Germantown High School where he took drama and auditioned for every play. In 1985, when he was a senior at Germantown, he was voted 'Most Talented' by his classmates. Right after graduating high school, Chris attended North Carolina School of Arts in Winston-Salem, where he received his BFA in Drama. He later performed with the Berkshire Theatre in Stockbridge, Massachusetts, and the Alley Theatre in Houston, Texas. Afterwards Chris moved back to..."
+    },
+    {
+        "ppid" : 19,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMTkxNjE0NzAxMF5BMl5BanBnXkFtZTcwNjQyMjQ4Mg@@._V1_QL75_UY414_CR4,0,280,414_.jpg",
+        "name" : "Spencer",
+        "lastname" : "Grammer",
+        "age" : "40",
+        "work":["Actress","Producer","Director"],
+        "video" : "https://www.youtube.com/embed/fxbwYQ93OAQ?si=5XdkssKMxDdiHFF3",
+        "detail" : "Spencer Grammer was born in Los Angeles, California, USA. She is an actress and producer, known for Rick and Morty (2013), Law & Order: Special Victims Unit (1999) and Random Tropical Paradise (2017). She was previously married to James Hesketh."
+    },
+    {
+        "ppid" : 20,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMjQyNjg4NDI4NV5BMl5BanBnXkFtZTcwOTAzOTUxMg@@._V1_QL75_UY414_CR8,0,280,414_.jpg",
+        "name" : "Sarah",
+        "lastname" : "Chalke",
+        "age" : "47",
+        "work":["Actress","Producer","Writer"],
+        "video" : "https://www.youtube.com/embed/IAUBq0Y_x4U?si=ZOGNPIxGYNvcIrkB",
+        "detail" : "Sarah Chalke was born on 27 August 1976 in Ottawa, Ontario, Canada. Her parents are Angie Chalke and Doug Chalke. She is the middle child, having one older sister, Natasha Chalke, and one younger, Piper Chalke. Sarah made her acting debut in a made-for-TV movie, City Boy (1992). In 1993, after her first film, she auditioned for the role of 'Becky' on the TV series Roseanne (1988). The show was looking for a replacement after Alicia Goranson quit the show to go to college. Sarah graduated from high school in..."
+    },
+    {
+        "ppid" : 21,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMTI4Mjc4MTMzNF5BMl5BanBnXkFtZTYwNjkzNzc4._V1_QL75_UY414_CR132,0,280,414_.jpg",
+        "name" : "Francis",
+        "lastname" : "Lawrence",
+        "age" : "52",
+        "work":["Director","Producer","Camera and Electrical Department"],
+        "video" : "https://www.youtube.com/embed/hoAHAgZYJ8U?si=PtmLy1ugoaYyynHO",
+        "detail" : "Francis Lawrence is an American filmmaker. He started directing over sixty music videos before he directed the cult classic Keanu Reeves film Constantine, I Am Legend and Water for Elephants. He also directed The Hunger Games: Catching Fire, The Hunger Games: Mockingjay Parts 1 and 2, and Red Sparrow, which all starred Jennifer Lawrence."
+    },
+    {
+        "ppid" : 22,
+        "url" : "data:image/jpeg;base64,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",
+        "name" : "Michael",
+        "lastname" : "Lesslie",
+        "age" : "39",
+        "work":["Producer","Writer","Additional Crew"],
+        "video" : "https://www.youtube.com/embed/RK5Yt6Ay_9A?si=-dOCQTmpIDigYPDr",
+        "detail" : "Michael Lesslie was born in 1984 in England, UK. Michael is a producer and writer, known for The Hunger Games: The Ballad of Songbirds & Snakes (2023), Macbeth (2015) and Assassin's Creed (2016)."
+    },
+    {
+        "ppid" : 23,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMjA4MzU5Mzc1NF5BMl5BanBnXkFtZTcwMzkxNTE3OA@@._V1_QL75_UX280_CR0,4,280,414_.jpg",
+        "name" : "Michael",
+        "lastname" : "Arndt",
+        "age" : "58",
+        "work":["Writer","Additional Crew","Producer"],
+        "video" : "https://www.youtube.com/embed/w0udp8OIIic?si=Vsp4A9NpDB9jllKW",
+        "detail" : "Michael Arndt was born on 11 November 1965 in Harris County, Texas, USA. He is a writer and producer, known for Star Wars: Episode VII - The Force Awakens (2015), Little Miss Sunshine (2006) and The Hunger Games: Catching Fire (2013)."
+    },
+    {
+        "ppid" : 24,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMTQyODc5Nzc2MF5BMl5BanBnXkFtZTcwNDAwODgxOA@@._V1_QL75_UY414_CR38,0,280,414_.jpg",
+        "name" : "Suzanne",
+        "lastname" : "Collins",
+        "age" : "61",
+        "work":["Writer","Additional Crew","Producer"],
+        "video" : "https://www.youtube.com/embed/RDE6Uz73A7g?si=bKDAjQMLhWEZWSO6",
+        "detail" : "Suzanne Collins is an American television writer and novelist, author of the bestselling series The Underland Chronicles and the wildly successful Hunger Games trilogy that spawned the Lionsgate film The Hunger Games (2012) and the three subsequently announced sequels, The Hunger Games: Catching Fire (2013), The Hunger Games: Mockingjay - Part 1 (2014) and The Hunger Games..."
+    },
+    {
+        "ppid" : 25,
+        "url" : "https://m.media-amazon.com/images/M/MV5BMjQyNzg3MDQ2OF5BMl5BanBnXkFtZTgwMDAzNjcxNzM@._V1_QL75_UY414_CR67,0,280,414_.jpg",
+        "name" : "Rachel",
+        "lastname" : "Zegler",
+        "age" : "22",
+        "work":["Actress","Soundtrack"],
+        "video" : "https://www.youtube.com/embed/V2_qpu2eaWw?si=NXHz7HOT-J3W8DqH",
+        "detail" : "Rachel Zegler is a singer and songwriter, raised in New Jersey by her American father and Colombian mother. Having been one of 30,000 people to audition, she was selected to play the role of Maria in Steven Spielberg's remake of the classic West Side Story (2021), opposite Ansel Elgort as Tony. She first played the role in a Performing Arts School presentation at Bergen Performing Arts Center. She reached a large audience with her cover of Lady Gaga's song 'Shallow', known from the movie A Star Is Born (2018)."
+    },
+    {
+        "ppid" : 26,
+        "url" : "https://m.media-amazon.com/images/M/MV5BOWVjOTVlMTQtMTQ2Ni00NGJiLWEzMTYtN2UxYTI0ZjE1NTczXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+        "name" : "Tom",
+        "lastname" : "Blyth",
+        "age" : "28",
+        "work":["Actor","Producer"],
+        "video" : "https://www.youtube.com/embed/V2_qpu2eaWw?si=Hv9WopUhU66fDGHy",
+        "detail" : "Tom Keir Blyth is an English actor. His films include Scott and Sid (2018), Benediction (2021), The Hunger Games, Ballad of Songbirds and Snakes (2023). He stars as the titular character of the MGM+ series Billy the Kid (2022) and a supporting role in the HBO series The Gilded Age (2022). Blyth was born in Birmingham and grew up in Woodthorpe, a suburb of Nottingham. He is the son of soap opera producer Gavin Blyth, who passed away when he was 14. Blyth attended Arnold Hill Academy and Bilborough..."
+    },
+    {
+        "ppid" : 27,
+        "url" : "https://m.media-amazon.com/images/M/MV5BNzUxNjM4ODI1OV5BMl5BanBnXkFtZTgwNTEwNDE2OTE@._V1_QL75_UY414_CR29,0,280,414_.jpg",
+        "name" : "Viola",
+        "lastname" : "Davis",
+        "age" : "58",
+        "work":["Actress","Producer","Soundtrack"],
+        "video" : "https://www.youtube.com/embed/3ew-aWjJx-U?si=UT_9J2a9ToIQwkWW",
+        "detail" : "Viola Davis is a critically revered actress of film, television, and theater and has won rave reviews for her multitude of substantial and intriguingly diverse roles. Audiences across the United States and internationally have admired her for her work- including her celebrated, Oscar-nominated performances in The Help (2011), Doubt (2008), and her Oscar winning performance in Fences (2016). In 2015, Davis won the Emmy Award for Outstanding Performance by a Female Actor in a Drama Series for her work in ABC's..."
+    }
+]
