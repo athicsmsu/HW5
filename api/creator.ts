@@ -35,13 +35,13 @@ router.get("/:id", (req, res) => {
 
 router.post("/", (req, res) => {
     const imdbID = req.query.imdbID;
-    const cid = req.query.cid;
-    const insert = "INSERT INTO creators (imdbID,cid)"+
+    const pid = req.query.pid;
+    const insert = "INSERT INTO creators (imdbID,pid)"+
 	"VALUES (?, ?)"
 
 	conn.query(insert, [
 		imdbID,
-        cid
+        pid
 	], (err,result,fields)=>{
         if (err) throw err;
         res.status(201).json({ 
@@ -53,10 +53,10 @@ router.post("/", (req, res) => {
 
 router.delete("/", (req, res) => {
 	const imdbID = req.query.imdbID;
-    const cid = req.query.cid;
-	const sql = "delete from creators where imdbID = ? and cid = ?";
+    const pid = req.query.pid;
+	const sql = "delete from creators where imdbID = ? and pid = ?";
 
-	conn.query(sql,[imdbID, cid], (err,result)=>{
+	conn.query(sql,[imdbID, pid], (err,result)=>{
 		if (err) throw err;
        res.status(200)
          .json({ affected_row: result.affectedRows });
